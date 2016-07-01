@@ -15,7 +15,7 @@ import org.springframework.web.client.RestTemplate;
  */
 
 public class Account {
-    private String api="R0ScJcFjU3v6T1VjllIy7m7iRQHMoBW40d5oceDCJKhqhxNg";
+    private String api="";
     
     public void setAPI()
     {
